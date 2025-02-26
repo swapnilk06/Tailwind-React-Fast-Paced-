@@ -1,0 +1,32 @@
+For best practices :- https://tailwindcss.com
+
+--------------
+
+cd foldername	: Move into a folder inside the current directory.
+cd ..	        : Move one level up (to the parent folder).
+cd ../..	    : Move two levels up.
+cd /d C:\Path\To\Folder	: Change to a specific folder (for Command Prompt/PowerShell).
+cd "C:\Program Files"	: Use double quotes if the folder name has spaces.
+cd ~/Desktop	        : Move to the Desktop (works in Git Bash/WSL).
+cd	            : Go to the home directory.
+
+--------------------------------------------------
+
+
+Build responsive design in tailwind -
+
+
+Core Concepts - https://tailwindcss.com/docs/responsive-design
+
+Tailwind Responsive Breakpoints - https://v1.tailwindcss.com/docs/breakpoints
+
+- Whole of Tailwind is designed with the principle of mobile first.
+
+- Don't use 'sm:' to target mobile devices
+
+
+
+--------------------------------------------------
+
+
+Build any layout with tailwind - Masterclass
