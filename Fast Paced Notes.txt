@@ -30,3 +30,12 @@ Tailwind Responsive Breakpoints - https://v1.tailwindcss.com/docs/breakpoints
 
 
 Build any layout with tailwind - Masterclass
+
+- Equal section : divide into 2/3/4... equal parts.
+
+- Non Equal section : never share equal space e.g. 25% & 75%
+
+- Best approach row wise design
+
+
+

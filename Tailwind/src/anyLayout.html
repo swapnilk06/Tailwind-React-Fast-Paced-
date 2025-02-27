@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Design Any Layout</title>
+	<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+
+	<!-- Equal Section -->
+
+	<h2 class="text-center text-2xl text-black mb-6 font-bold">2 Equal parts-------</h2>
+	<div class="m-4 grid grid-cols-2 gap-4 sm:grid-cols-2">
+		<div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+	</div>
+
+	<h2 class="text-center text-2xl text-black mb-6 font-bold">3 Equal parts-------</h2>
+	<div class="m-4 grid gap-4 sm:grid-cols-3">
+		<div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-red-500 shadow"></div>
+	</div>
+
+	<h2 class="text-center text-2xl text-black mb-6 font-bold">4 Equal parts-------</h2>
+	<div class="m-4 grid gap-4 sm:grid-cols-4">
+		<div class="min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-red-500 shadow"></div>
+		<div class="min-h-[100px] rounded-lg bg-purple-500 shadow"></div>
+	</div>
+
+
+	<!-- Non Equal Section -->
+
+	<h2 class="text-center text-2xl text-black mb-6 font-bold">Non Equal parts-------</h2>
+	<div class="m-4 grid grid-cols-1 gap-4 sm:grid-cols-12">
+		<div class="sm:col-span-2 min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+		<div class="sm:col-span-10 min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+	</div>
+
+	<div class="m-4 grid grid-cols-1 gap-4 sm:grid-cols-12">
+		<div class="sm:col-span-8 min-h-[100px] rounded-lg bg-orange-500 shadow"></div>
+		<div class="sm:col-span-4 min-h-[100px] rounded-lg bg-teal-500 shadow"></div>
+	</div>
+
+
+</body>
+</html>
