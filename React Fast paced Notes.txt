@@ -1,0 +1,62 @@
+React Roadmap
+------------
+
+Why to learn React?
+- Learn for make easy to mange & build complex frontends.
+- Learn after mastering JS.
+
+Why react was created?
+- Facebook Ghost message problem(No consistency in UI)
+
+Super power of react :- Consistency in UI 
+:- REACT is library
+
+Topic to learn 
+- Core of React
+- Component Resuability
+- Resuing of component (Props)
+- How to propagate change(Hooks)
+
+
+Addon to React :
+- Router(React don't have Router)
+- State management(React don't have state management)
+	- Redux, Redux toolkit, context API...
+- Class based component
+	- Legacy code
+- BAAS Apps
+	- Social media clone
+
+React Problems
+- React is not a complete solution 
+	- No SEO, browser Render of JS, No routing
+
+
+
+==============================================
+
+Create React Projects
+------------
+
+Steps of git -
+- git add _ _ _
+- git commit -m "_ _ _ _ _"
+- git push -u origin main
+
+npx create-react-app 
+
+ npm create vite@latest
+ -> React -> Javascript
+
+Run -
+-  cd 01basicvite
+-  npm install
+-  npm run dev
+
+-  npm run start
+
+
+------------------
+
+Create your own react library and JSX
+
