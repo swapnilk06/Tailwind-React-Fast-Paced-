@@ -9,7 +9,24 @@ Welcome to my **Tailwind CSS** practice repository! 🎨🚀 This repository con
  ┣ 📂 Tailwind
  ┃ ┣ 📂 cdnway
  ┃ ┣ 📂 src
- ┗ 📜 Fast Paced Notes.txt
+ ┣📜 README.md
+ ┣📜 React Fast Paced Notes.txt
+ ┣📜 Tailwindcss Fast Paced Notes.txt
+```
+
+
+## 📂 React Project Structure
+
+```
+📦 TAILWIND_REACT(FAST-Paced)
+ ┣ 📂 Tailwind
+ ┣ 📂 React
+ ┃ ┣ 📂 01basicreact
+ ┃ ┣ 📂 01basicvite
+ ┃ ┣ 📂 customReact
+ ┣📜 README.md
+ ┣📜 React Fast Paced Notes.txt
+ ┣📜 Tailwindcss Fast Paced Notes.txt
 ```
 
 - All my practice projects are inside the **`src/`** folder.
