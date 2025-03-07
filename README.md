@@ -23,7 +23,6 @@ Welcome to my **Tailwind CSS** practice repository! 🎨🚀 This repository con
  ┣ 📂 React
  ┃ ┣ 📂 01basicreact
  ┃ ┣ 📂 01basicvite
- ┃ ┣ 📂 customReact
  ┣📜 README.md
  ┣📜 React Fast Paced Notes.txt
  ┣📜 Tailwindcss Fast Paced Notes.txt
